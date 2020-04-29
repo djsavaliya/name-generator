@@ -1,6 +1,6 @@
-# first
+# Name Generator
 
-A new Flutter application.
+A Flutter application that generates infinte list of combinations of two words and also lets you save your favourite ones.
 
 ## Getting Started
 
